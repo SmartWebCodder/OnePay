@@ -1,5 +1,5 @@
 # PayOne
 
-A Flutter App project.
+A Flutter project.
 
 This project is a starting point for a Flutter App
